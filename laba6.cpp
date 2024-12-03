@@ -19,3 +19,4 @@ int main()
    else { printf("ERROR");};
    printf("Func equals: %lf", F);
 }
+//new comment
